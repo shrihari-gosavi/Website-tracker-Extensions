@@ -38,4 +38,4 @@ A powerful Chrome extension for tracking website usage, analyzing productivity, 
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/your-username/Website-tracker-Extensions.git
+   git clone https://github.com/shrihari-gosavi/Website-tracker-Extensions
